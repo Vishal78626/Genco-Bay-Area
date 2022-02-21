@@ -1,9 +1,7 @@
 ## Evolution of Guru Nanak Engineering College
-
-```
 Complied by Genconians and Staff
-California 20 22
-```
+California 2022
+
 ## 1 - INTRODUCTION
 
 Before the Partition of India in 1947, there was only one engineering college in Punjab
@@ -43,10 +41,7 @@ He was seen working late night and into the early hours of the morning to achiev
 this dream.
 
 Initially, a pilot project by way of a Polytechnic College was started in a makeshift
-campus using the Malwa Khalsa School in Model Gram, Ludhiana. Thereafter, the
-
-
-work for accumulating the necessary resources and permissions was undertaken. The
+campus using the Malwa Khalsa School in Model Gram, Ludhiana. Thereafter, the work for accumulating the necessary resources and permissions was undertaken. The
 government of India insisted that it would give the necessary permissions if the
 founders could accumulate a sum of 1 Crore rupees.
 
@@ -83,19 +78,15 @@ adequate scale;
 And whereas the Equality of Opportunities now allowed to all people of India has
 no meaning without the Equality of Facilities which unfortunately does not exist.”
 
-```
 3.1 In order to achieve the objectives of the Nankana Sahib Educational Trust, it
 was decided by the Board of Trustees to set up appropriate institutions for the following
 purposes:
-```
+
 (3.1.1) To provide facilities for Civil, Mechanical, Electrical, Technical, Agricultural,
 Industrial and all other types of Engineering and Scientific education. Further, the
 facilities will provide training to the weaker or backward and poor section of people in
 general, but particularly to such people in rural areas. With this end in view, they planned
-to establish, maintain and manage an Engineering College in Ludhiana or in its suburbs,
-
-
-and other Civil, Mechanical, Technical, Electrical, Agricultural, Industrial and Scientific
+to establish, maintain and manage an Engineering College in Ludhiana or in its suburbs, and other Civil, Mechanical, Technical, Electrical, Agricultural, Industrial and Scientific
 Schools and Institutions at suitable place in the States of Punjab, Patiala, and the East
 Punjab States union. With the same end in view, they planned to set up plants,
 workshops and other machinery for the production and manufacture of Mechanical,
@@ -109,7 +100,7 @@ Professional Colleges, Schools and Institutions in India.
 (3.1.3) To supply necessary information for the said purposes to people through books,
 magazines, papers and otherwise.
 
-3 .2 Trust Management
+## 3.2 Trust Management
 
 During the preliminary stages of the establishment of the Trust, S. Sham Singh
 Mukandpuri and Jathedar Bachittar Singh of Pepsu constantly worked for the Trust.
@@ -140,52 +131,40 @@ Group for this payment of rupees 8 Lakhs and advised keeping the management of t
 Trust above party politics. Sarvshri Swaran Singh, Gurbachan Singh Bajwa and Ujjal
 Singh, all of whom were Government Ministers, also fully sympathized with the
 management in their task and did whatever little they could to help. The names of S. Inder
-Singh Kt. of Jamshedpur and his son S. Baldev Singh and R. B. Basaka Singh, Sir Sobha
-
-
-Singh, S. Bishan Singh Singaporean and Bawa Bachittar Singh also have to be
+Singh Kt. of Jamshedpur and his son S. Baldev Singh and R. B. Basaka Singh, Sir Sobha Singh, S. Bishan Singh Singaporean and Bawa Bachittar Singh also have to be
 mentioned for their sincere good wishes. Gyani Kartar Singh also gave his blessings
 to the constitution.
 
-3 .3 First Trustees
+##3.3 First Trustees
 
 The following persons were the first Trustees.
 
-```
- President, S.G.P.C.Ex-officio. (S.Pritam Singh Khuranj).
- His Highness Maharaj Yadvindra Singh, Malvindra Bahadur Rajparmukh of
-PEPSU as represented by S. Gain Singh Rarewala.
- Master Tara Singh.
-```
-The first meeting of the Board of Trustees was held in Patiala at the residence of S. Gain
-Singh Rarewala on June 5, 1953. In this meeting, the Trustees appointed the Managing
 
-Committee as provided in the Trust Deed.
+- President, S.G.P.C.Ex-officio. (S.Pritam Singh Khuranj).
+- His Highness Maharaj Yadvindra Singh, Malvindra Bahadur Rajparmukh of PEPSU as represented by S. Gain Singh Rarewala.
+- Master Tara Singh.
 
-3 .4 First Management Committee
+The first meeting of the Board of Trustees was held in Patiala at the residence of S. Gain Singh Rarewala on June 5, 1953. In this meeting, the Trustees appointed the Managing Committee as provided in the Trust Deed.
+
+3.4 First Management Committee
 
 The following were the members of the first committee:
 
-```
- S.B.S.( Sardar Bahadur Sardar) Teja Singh, Chief Justice, Patiala High-Court
+- S.B.S.( Sardar Bahadur Sardar) Teja Singh, Chief Justice, Patiala High-Court
 President.
- S. Gurnam Singh Judge, Patiala High Court, Vice-President.
- S. Harnam Singh Judge, Punjab High Court.
- S.B.S. Karnail Singh, General Manager, Indian Railways
- S.B.S. Sarup Singh Chief Engineer, (Punjab) Retd.
- S.B.S. Natha Singh, State Engineer, Jaipur (Retd).
- S. Mohan Singh, Managing Director, Bank of Patiala.
- S. Bahadur Singh, M.A., M.P.
- S. Prithvi Singh, Advocate, Ferozepur.
- S. Joginder Singh; Advocate, Ludhiana-Secretary.
-```
-The first meeting of the Management Committee was held on July 26,1953, at the
-residence of S.B.S. Teja Singh in Patiala and a resolution was passed to start a Degree
-College in Ludhiana.
+- S. Gurnam Singh Judge, Patiala High Court, Vice-President.
+- S. Harnam Singh Judge, Punjab High Court.
+- S.B.S. Karnail Singh, General Manager, Indian Railways
+- S.B.S. Sarup Singh Chief Engineer, (Punjab) Retd.
+- S.B.S. Natha Singh, State Engineer, Jaipur (Retd).
+- S. Mohan Singh, Managing Director, Bank of Patiala.
+- S. Bahadur Singh, M.A., M.P.
+- S. Prithvi Singh, Advocate, Ferozepur.
+- S. Joginder Singh; Advocate, Ludhiana-Secretary.
 
-## 4. COLLEGE LOCATION, TRUSTEES, BOARDS AND MANAGEMENT
+The first meeting of the Management Committee was held on July 26,1953, at the residence of S.B.S. Teja Singh in Patiala and a resolution was passed to start a Degree College in Ludhiana.
 
-## COMMITTEE
+## 4. COLLEGE LOCATION, TRUSTEES, BOARDS AND MANAGEMENT COMMITTEE
 
 
 Through the kindness of Sardar Sahib Sardar Udhe Singh, P.C.S. (retired Rais of
@@ -197,43 +176,39 @@ classes in Civil, Electrical and Mechanical engineering. The college opened on O
 The Board of Trustees and the Management Committee were reconstituted with the
 mutual consent of the two groups, consisting of the following persons.
 
-4.1 Board of Trustees
+### 4.1 Board of Trustees
 
-```
- President, S.G.P.C. Ex-officio. (Master Tara Singh).
- Jathedar Udham Singh Nagoke, M.P.
- His Highness Maharaj Yadvindra, Sinqh Rajparmukh of Pepsu.
- S. Gain Singh Rarewala, Ex-Chief Minister, Pepsu.
- S. Mohinder Singh Sidhwan.
- S. Chanan Singh Gill of Doraha, representing the donors of 75 acres of land of
-Gill Village.
-```
-4.2 The Management Committee
 
-```
- S. Gurnam Singh, Judge, High Court, Pepsu, President.
- S. Kartar Singh, B. A ., LL.B., Advocate, Ludhiana, Vice President
- S.B.S. Karnail Singh, General Manager, Indian railways.
- S.B.S. Sarup Singh, Retired Chief Engineer, Punjab.
- S.B.S. Natha Singh Randhawa, Retired State Engineer, Amritsar.
- S. Dharam Singh Engineer, Ex. President, municipal Committee, Amritsar.
- Dr. Harnam Singh, M.A. Ph.D. D.P.I, Pepsu (Retd)
- General Shivdev Singh, Minister P.W.D. Pepsu.
- S. Bahadur Singh, M.A., M.P.
- S. Dasundha Singh, Advocate, Ex. Minister, Punjab Government.
- S. B a s a n t Singh Moga, Ex-Vice President, S.G.P.C.
- S Bakhshish Singh Bhamadi, Contractor, Ludhiana.
- Principal, Guru Nanak Engineering College, Ex-Officio.
- S. Joginder Singh, Advocate Secretary.
- Reserved for a nominee of Government of India.
- Reserved for a nominee of Government of Punjab.
-```
+- President, S.G.P.C. Ex-officio. (Master Tara Singh).
+- Jathedar Udham Singh Nagoke, M.P.
+- His Highness Maharaj Yadvindra, Sinqh Rajparmukh of Pepsu.
+- S. Gain Singh Rarewala, Ex-Chief Minister, Pepsu.
+- S. Mohinder Singh Sidhwan.
+- S. Chanan Singh Gill of Doraha, representing the donors of 75 acres of land of Gill Village.
+
+### 4.2 The Management Committee
+
+
+- S. Gurnam Singh, Judge, High Court, Pepsu, President.
+- S. Kartar Singh, B. A ., LL.B., Advocate, Ludhiana, Vice President
+- S.B.S. Karnail Singh, General Manager, Indian railways.
+- S.B.S. Sarup Singh, Retired Chief Engineer, Punjab.
+- S.B.S. Natha Singh Randhawa, Retired State Engineer, Amritsar.
+- S. Dharam Singh Engineer, Ex. President, municipal Committee, Amritsar.
+- Dr. Harnam Singh, M.A. Ph.D. D.P.I, Pepsu (Retd)
+- General Shivdev Singh, Minister P.W.D. Pepsu.
+- S. Bahadur Singh, M.A., M.P.
+- S. Dasundha Singh, Advocate, Ex. Minister, Punjab Government.
+- S. B a s a n t Singh Moga, Ex-Vice President, S.G.P.C.
+- S Bakhshish Singh Bhamadi, Contractor, Ludhiana.
+- Principal, Guru Nanak Engineering College, Ex-Officio.
+- S. Joginder Singh, Advocate Secretary.
+- Reserved for a nominee of Government of India.
+- Reserved for a nominee of Government of Punjab.
+
 ### 5. FINANCIAL ADVISOR & OVERALL PROJECT
 
-For the management of funds, S. B. Bhai Jodh Singh, M.L.C.was appointed as financial
-
-
-advisor. The S.G.P.C., under the Presidentship of Master Tara Singh, donated a sum
+For the management of funds, S. B. Bhai Jodh Singh, M.L.C.was appointed as financial advisor. The S.G.P.C., under the Presidentship of Master Tara Singh, donated a sum
 of rupees 2 Lakhs on August 3, 1953. The same body donated another sum of rupees
 8 Lakhs in March 1954 under the Presidentship of S. Ishar Singh Majhail. The residents
 of Gill Village donated an extremely valuable piece of land measuring 75 acres on
@@ -254,22 +229,22 @@ Pepsu regions as possible at the desire and financial assistance of the local pe
 entire project in Ludhiana was estimated to cost rupees 1 crore when completed, as
 detailed below:
 
-```
-Estimate of Cost
-Guru Nanak Engineering College, Ludhiana
+
+##Estimate of Cost
+##Guru Nanak Engineering College, Ludhiana
 For Degree Diploma in Engineering and Technical Training Institute for
 Craftsman Training
 (In Rupees)
-```
-```
-Main building 9 ,37,
-Workshop 8 ,55,^
-Hostels (double set for 500 students) 8 ,55,^
-Equipment 16 ,25,^
-Roads and drainage system and sewage scheme 2 ,50,^
-Water supply and electrification 2 ,25,^
-Residential quarters 7 ,01,^
-Gymnasium, swimming pool and tuck shop 2 ,01,^
+
+
+Main building 9 ,37,000
+Workshop 8 ,55,000
+Hostels (double set for 500 students) 8 ,55,000
+Equipment 16 ,25,000
+Roads and drainage system and sewage scheme 2 ,50,000
+Water supply and electrification 2 ,25,000
+Residential quarters 7 ,01,000
+Gymnasium, swimming pool and tuck shop 2 ,01,000
 Other subsidiary buildings, levelling plots, grounds
 for sports and T&P
 ```
@@ -282,7 +257,7 @@ Technical training institute for craftsman 21 ,90,^
 Gurdwara and library (religious) 3 ,50,^
 82 ,79,^
 Land and other incidental charges 28 ,00,^
-```
+
 
 It must also be revealed with a mixed feeling that the first brick was placed on the present
 
@@ -335,18 +310,18 @@ tube-well, etc., by some benevolent donors, who had the desire and means to serv
 this institution as Trustees or otherwise. The development and the progress of this
 Trust and its various activities and stages - good, bad or otherwise- through which it has
 
-```
+
 Grand Total 1 ,^10 ,79,^
-```
-```
+
+
 Approximately rupees 1.0 crores
-```
+
 
 passed, should be a good benefit for the public.
 
-```
+
 Foundation Stone of GNEC laid by President of India (1956)
-```
+
 ### 6. ADMISSION AND COURSES OF STUDIES
 
 The first Principal of the College was Doctor Harchand Singh Retired Principal, Punjab
@@ -384,7 +359,7 @@ particular interest that though the Trust is sponsored by S.G.P.C., a religious 
 consistent with the essence of Guru Nanak's mission, the doors of the institution are open
 to all irrespective of creed, caste and religion, and admissions are held on merits.
 
-7. OBJECTIVE ACHIEVED
+### 7. OBJECTIVE ACHIEVED
 
 This herculean task undertaken transpired over a period of 5 years resulting in the seed
 sown to grow into a pioneer engineering institution which has produced Lakhs of
@@ -393,7 +368,7 @@ outstanding engineers flourishing all around the globe.
 For additional information about present state of the college please, log on to the college
 web site https://www.gndec.ac.in
 
-Acknowledgments:
+### Acknowledgments:
 
 We highly Appreciate the efforts of S. Parambir Singh Grewal grandson of Sardar
 Joginder Singh Grewal and Professor Ranbir Singh Sandhu for providing information, S.
@@ -401,85 +376,27 @@ Kamaljit Singh Hara for his persistent pursuit to find information, and Genconia
 help to complete this project.
 
 
-```
+
 (Reproduced in original)
 ADDRESS PRESENTED TO SHRI RAJENDRA PRASAD
 PRESIDENT OF INDIA AT THE TIME OF LAYING
 FOUNDATION STONE OF MAIN BUILDING
 OF GURU NANAK ENGINEERING COLLEGE
-```
+
 Mr. President,
 
-```
-Your benign visit invests us with singular privilege, and we tender to you our heart-
-```
-felt welcome. You are undoubtedly a man of great natural gifts, best admired and beloved
 
-by those who know you best. But we, too, know you as a man of knowledge and of action
-and even a passing reference to your eventful life is inspiration for us. Whatever fell to
-
-your lot to do, was performed by you with such care and effect that everybody could
-perceive from the first that you were beyond question in the galaxy of the Great, marked
-
-out for the highest position in the country. That gentle Teacher of our times, Mahatma
-Gandhi, who died so that others may live, always received you with open arms and gave
-
-you, his trust. confidence and friendship. To no small degree, by your sacrifices and
-
-services, you helped him make a walking truth of the dream of a free India. In recent
-years, your attractive simplicity of character, your courage of a large and honest mind,
-
-your solicitude for the welfare of the common man and your genius for business of the
-highest order, have made you, for a full term, our Executive Head and ensured for us all
-
-a period of great glory and of lasting amity and solidarity.
-
-```
-Sir, the education of youth, because it is one of the fundamental functions and
-```
-responsibilities of Society, is the engrossing topic of our times, of vital concern to us all.
-
-It is specially so, because of the present pressure of rapid and unprecedented
-development of economic life which necessitates a new order in education. To bring about
-
-such a new order, with point and purpose is, in large part, the chief impulse of the Guru
-Nanak Engineering College. It is intended to be a specialist Institution offering a thorough
-
-education in Engineering up to university and professional standards.
-
-```
-Justification lies in the fact that society needs expert services of a large and increasing
-```
-number of helping hands in the future enterprises of the country. More specifically,
-society needs workers, mechanics and operators who know how to build roads, throw
-
-bridges over chasms, tunnels under obstructions, and can take intelligent interest in
-machines and to use and tend them.
+Your benign visit invests us with singular privilege, and we tender to you our heart-felt welcome. You are undoubtedly a man of great natural gifts, best admired and beloved by those who know you best. But we, too, know you as a man of knowledge and of action and even a passing reference to your eventful life is inspiration for us. Whatever fell to your lot to do, was performed by you with such care and effect that everybody could perceive from the first that you were beyond question in the galaxy of the Great, marked out for the highest position in the country. That gentle Teacher of our times, Mahatma Gandhi, who died so that others may live, always received you with open arms and gave you, his trust. confidence and friendship. To no small degree, by your sacrifices and services, you helped him make a walking truth of the dream of a free India. In recent years, your attractive simplicity of character, your courage of a large and honest mind, your solicitude for the welfare of the common man and your genius for business of the highest order, have made you, for a full term, our Executive Head and ensured for us all a period of great glory and of lasting amity and solidarity.
 
 
-```
-Sir, this College is designedly set in rural surroundings and though it is to cater for
-```
-every class and community, its chief concern is to provide technical education to less
-developed area and backward people. Its prevailing philosophy is an optimistic one of
+Sir, the education of youth, because it is one of the fundamental functions and responsibilities of Society, is the engrossing topic of our times, of vital concern to us all. It is specially so, because of the present pressure of rapid and unprecedented development of economic life which necessitates a new order in education. To bring about such a new order, with point and purpose is, in large part, the chief impulse of the Guru Nanak Engineering College. It is intended to be a specialist Institution offering a thorough education in Engineering up to university and professional standards.
 
-success. It is expected that as soon as it achieves that adequacy of equipment and
-accessories towards which it is already straining every nerve, it will be possible, by
 
-degrees, to extend its sphere of activities and open constituent technical schools and
+Justification lies in the fact that society needs expert services of a large and increasing number of helping hands in the future enterprises of the country. More specifically, society needs workers, mechanics and operators who know how to build roads, throw bridges over chasms, tunnels under obstructions, and can take intelligent interest in machines and to use and tend them.
 
-minor institutions, throughout the state, wherever local interest is strong enough to
-promise a successful organization. It is also hoped that its students, while remaining
 
-attached to the soil from which they spring and fulfilling their task to the eternal benefits
-both of themselves and of the country will continue to remind the succeeding generations
 
-of two important principles- that principle that the best is not too good for the children of
-
-our people however straitened in circumstances their parents may be and the principle
-that moral and spiritual approval alone, can give society the stability that is needed under
-
-the stress of modern unsettling and disruptive tendencies.
+Sir, this College is designedly set in rural surroundings and though it is to cater for every class and community, its chief concern is to provide technical education to less developed area and backward people. Its prevailing philosophy is an optimistic one of success. It is expected that as soon as it achieves that adequacy of equipment and accessories towards which it is already straining every nerve, it will be possible, by degrees, to extend its sphere of activities and open constituent technical schools and minor institutions, throughout the state, wherever local interest is strong enough to promise a successful organization. It is also hoped that its students, while remaining attached to the soil from which they spring and fulfilling their task to the eternal benefits both of themselves and of the country will continue to remind the succeeding generations of two important principles- that principle that the best is not too good for the children of our people however straitened in circumstances their parents may be and the principle that moral and spiritual approval alone, can give society the stability that is needed under the stress of modern unsettling and disruptive tendencies.
 
 Sir, this College is virtually sponsored by the Shiromani Gurdwara Parbhandhak
 Committee. To initiate it, it has munificently donated to its funds rupees ten lakhs with the
@@ -501,8 +418,6 @@ administrative minds. Their combined sustained and patient efforts have already 
 for the college an institutional organization, competent as regards essential rights and
 powers, if not yet wholly adequate in resources.
 
-
-```
 For, if this college is to conform to the prescribed standard of management and
 efficiency as well as its proper upkeep, it must obtain substantial annual grants from the
 Treasury and a steady flow of beneficial, donations and bequests. Vast sums of money
@@ -511,29 +426,23 @@ need at least rupees one crore. We urge well-to-do citizens and enlightened capt
 industry throughout India to give of their abundance to this worthy cause. The College
 offers a wide field and a noble opportunity for the exercise on modern lines of that charity
 and benevolence for which India has been renowned from ancient times.
-```
-```
+
+
 Sustained and ensured by an unfaltering trust, we appeal to you also, Sir, as the Head
 of the Union of India, to judge the grant earning capacity of this Institution on grounds of
 general efficiency and desert rather than by rigid rules of calculation and include it as the
 first among the new fifteen Engineering Colleges envisaged in the next Five-Year Plan.
-```
-```
+
 Sir, we are deeply indebted to you for your graciously coming over to Ludhiana to
 accommodate our request to lay the foundation-stone of the main building of Guru Nanak
 Engineering College. We feel sincerely that this day, because of your presence in our
 midst, has, for all time, become for us a memorable day.
-```
-```
+
 Faithfully yours,
-```
-```
+
 Members of
 Board of Trustees, and
 Management Committee,
 Nankana Sahib Education Trust
-```
-Members of
-Board of Trustees, a
 
 
