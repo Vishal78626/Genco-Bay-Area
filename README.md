@@ -28,7 +28,7 @@
 
 <p align='justify'>And whereas the Equality of Opportunities now allowed to all people of India has no meaning without the Equality of Facilities which unfortunately does not exist.”</p>
 
-**3.1**
+### 3.1
 <p align='justify'>In order to achieve the objectives of the Nankana Sahib Educational Trust, it was decided by the Board of Trustees to set up appropriate institutions for the following purposes:</p>
 
 <p align='justify'>(3.1.1) To provide facilities for Civil, Mechanical, Electrical, Technical, Agricultural, Industrial and all other types of Engineering and Scientific education. Further, the facilities will provide training to the weaker or backward and poor section of people in general, but particularly to such people in rural areas. With this end in view, they planned to establish, maintain and manage an Engineering College in Ludhiana or in its suburbs, and other Civil, Mechanical, Technical, Electrical, Agricultural, Industrial and Scientific Schools and Institutions at suitable place in the States of Punjab, Patiala, and the East Punjab States union. With the same end in view, they planned to set up plants, workshops and other machinery for the production and manufacture of Mechanical, Electrical, Agricultural and Industrial tools, plants, machinery and goods.</p>
@@ -153,13 +153,17 @@
 
 <p align='justify'>The first Principal of the College was Doctor Harchand Singh Retired Principal, Punjab Engineering College, Roorkee. Dr Harchand Singh was there for a short period of time and Sarda Tara Singh, who retired as Principal of Panjab Engineering College Chandigarh was appointed Principal of Guru Nanak Engineering College Ludhiana in 1956 and remained until 1970.</p>
 
-<p align='justify'>6.1 The Managing Committee was tasked to establish the rules for admission and examinations of students and trainees and the rules can be amended by the Managing Committee as necessary. Such rules must have the approval of the Trustees and be consistent with the provisions in the Deed for that purpose</p>
+### 6.1
+<p align='justify'>The Managing Committee was tasked to establish the rules for admission and examinations of students and trainees and the rules can be amended by the Managing Committee as necessary. Such rules must have the approval of the Trustees and be consistent with the provisions in the Deed for that purpose</p>
 
-<p align='justify'>6.2 The courses of studies at the engineering college should preferably be the same as prescribed for a similar college of the Punjab state or the state of Pepsu.</p>
+### 6.2
+<p align='justify'>The courses of studies at the engineering college should preferably be the same as prescribed for a similar college of the Punjab state or the state of Pepsu.</p>
 
-<p align='justify'>6.3 The minimum qualifications for admission of students to the engineering college should preferably be the same as fixed from time to time for the engineering college of the states of Punjab or Pepsu, and the college should be affiliated with the University of the State of Punjab or Pepsu if possible, as decided by the Trustees. The examination for a degree in engineering should also be the same or similar as for the engineering college of the states of Punjab or Pepsu and, if possible, held by the University of the State to which the college is affiliated.</p>
+### 6.3
+<p align='justify'>The minimum qualifications for admission of students to the engineering college should preferably be the same as fixed from time to time for the engineering college of the states of Punjab or Pepsu, and the college should be affiliated with the University of the State of Punjab or Pepsu if possible, as decided by the Trustees. The examination for a degree in engineering should also be the same or similar as for the engineering college of the states of Punjab or Pepsu and, if possible, held by the University of the State to which the college is affiliated.</p>
 
-<p align='justify'>6.4 RESERVATION OF SEATS: Whereas the Trust was created primarily to help the people of rural areas, who are admittedly a backward and weaker section of people, and the Trust would not be fulfilling its purposes if such people did not get the fullest benefit from the activities of the Trust, so it was provided that in case the number of candidates is more than the seats available for admission to the engineering college or to any other school or institution of the Trust, 70% of the seats shall be filled from among the candidates hailing from the rural areas, provided such number is available from among the candidates who have applied for such admission. It has to be noted with particular interest that though the Trust is sponsored by S.G.P.C., a religious body, but consistent with the essence of Guru Nanak's mission, the doors of the institution are open to all irrespective of creed, caste and religion, and admissions are held on merits.</p>
+### 6.4 RESERVATION OF SEATS:
+<p align='justify'>Whereas the Trust was created primarily to help the people of rural areas, who are admittedly a backward and weaker section of people, and the Trust would not be fulfilling its purposes if such people did not get the fullest benefit from the activities of the Trust, so it was provided that in case the number of candidates is more than the seats available for admission to the engineering college or to any other school or institution of the Trust, 70% of the seats shall be filled from among the candidates hailing from the rural areas, provided such number is available from among the candidates who have applied for such admission. It has to be noted with particular interest that though the Trust is sponsored by S.G.P.C., a religious body, but consistent with the essence of Guru Nanak's mission, the doors of the institution are open to all irrespective of creed, caste and religion, and admissions are held on merits.</p>
 
 ## 7. OBJECTIVE ACHIEVED
 
