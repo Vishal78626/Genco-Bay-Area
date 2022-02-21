@@ -1,157 +1,64 @@
-## Evolution of Guru Nanak Engineering College
-Complied by Genconians and Staff
-California 2022
+### <p align='center'>Evolution of Guru Nanak Engineering College</p>
+<p align='center'>Complied by Genconians and Staff</p>
+<p align='center'>California 2022</p>
 
-## 1 - INTRODUCTION
+## 1. INTRODUCTION
 
-Before the Partition of India in 1947, there was only one engineering college in Punjab
-known as the Punjab College of Engineering and Technology at Lahore. Admission to
-this college was based on religious preferences. Hindus, Muslims and Sikhs were each
-allocated a certain number of seats. Half of the seats for each quota were awarded based
-on open merits and the other half were allocated on the recommendation of the provincial
-government, neighboring independent states, railways, and various components of the
-Indian military. For example, in the 1946 admission class, the non-Muslims who moved
-to Roorkee included students nominated by the states of Bekaner, Patiala and
-Bahawalpur, among others, the Air Force, the Army, the Navy and nominees of various
-departments of the government of the Punjab province.
+<p align='justify'>Before the Partition of India in 1947, there was only one engineering college in Punjab known as the Punjab College of Engineering and Technology at Lahore. Admission to this college was based on religious preferences. Hindus, Muslims and Sikhs were each allocated a certain number of seats. Half of the seats for each quota were awarded based on open merits and the other half were allocated on the recommendation of the provincial government, neighboring independent states, railways, and various components of the Indian military. For example, in the 1946 admission class, the non-Muslims who moved to Roorkee included students nominated by the states of Bekaner, Patiala and Bahawalpur, among others, the Air Force, the Army, the Navy and nominees of various departments of the government of the Punjab province.</p>
 
-After the Partition, the college was moved to India. It was temporarily housed in
-Thompson College, Roorkee and was named the East Punjab College of Engineering. A
-set of buildings known as “sisters’ barracks” became the hostel. Admission to East Punjab
-College of Engineering was based on merits only and all the quotas were eliminated along
-with the nominations from various government bodies.
+<p align='justify'>After the Partition, the college was moved to India. It was temporarily housed in Thompson College, Roorkee and was named the East Punjab College of Engineering. A set of buildings known as “sisters’ barracks” became the hostel. Admission to East Punjab College of Engineering was based on merits only and all the quotas were eliminated along with the nominations from various government bodies.</p>
 
-Due to the lack of educational facilities in rural area and with the new selection criteria,
-many of the rural area candidates were not selected. There was a great concern for this
-situation and discussions were held within the community as to how to remedy this
-imbalance. Sardar Joginder Singh Grewal of Ludhiana took the initiative, and his efforts
-were supported by the Shromani Gurdwara Parbandhak Committee (S.G.P.C). This led
-to the creation of the Nankana Sahib Educational Trust on February 24, 1953. At the
-same time, the government of India was considering opening 15 new engineering
-colleges in India.
+<p align='justify'>Due to the lack of educational facilities in rural area and with the new selection criteria, many of the rural area candidates were not selected. There was a great concern for this situation and discussions were held within the community as to how to remedy this imbalance. Sardar Joginder Singh Grewal of Ludhiana took the initiative, and his efforts were supported by the Shromani Gurdwara Parbandhak Committee (S.G.P.C). This led to the creation of the Nankana Sahib Educational Trust on February 24, 1953. At the same time, the government of India was considering opening 15 new engineering colleges in India.</p>
 
 ## 2. FORMING AN EDUCATIONAL INSTITUTION
 
-The forming of educational institutions required immense resources in the form of
-Land, Buildings, Equipment etc. along with cash reserves to run the same. Sardar
-Joginder Singh worked tirelessly to bring various prominent people together from all
-walks of life to achieve this goal. His desire was to keep this institution apolitical and
-for it to be dedicated to provide quality education and skills to the students enrolled.
-He was seen working late night and into the early hours of the morning to achieve
-this dream.
+<p align='justify'>The forming of educational institutions required immense resources in the form of Land, Buildings, Equipment etc. along with cash reserves to run the same. Sardar Joginder Singh worked tirelessly to bring various prominent people together from all walks of life to achieve this goal. His desire was to keep this institution apolitical and for it to be dedicated to provide quality education and skills to the students enrolled. He was seen working late night and into the early hours of the morning to achieve this dream.</p>
 
-Initially, a pilot project by way of a Polytechnic College was started in a makeshift
-campus using the Malwa Khalsa School in Model Gram, Ludhiana. Thereafter, the work for accumulating the necessary resources and permissions was undertaken. The
-government of India insisted that it would give the necessary permissions if the
-founders could accumulate a sum of 1 Crore rupees.
+<p align='justify'>Initially, a pilot project by way of a Polytechnic College was started in a makeshift campus using the Malwa Khalsa School in Model Gram, Ludhiana. Thereafter, the work for accumulating the necessary resources and permissions was undertaken. The government of India insisted that it would give the necessary permissions if the founders could accumulate a sum of 1 Crore rupees.</p>
 
-In the meantime, the work of writing the constitution, accumulating the necessary
-funds and finding a suitable location and land for a permanent institution was started.
-They determined that approximately 75 acres of land between the south bank of an
-adjacent canal and Gill Road in Gill Village would be the best location. The arduous
-task of convincing the people of Gill Village to donate their collective land was
-initiated. After unlimited negotiations, the villagers agreed to donate the land,
-provided they were made Trustees of the new college and that a certain number of
-students enrolled would be from the village. The necessary funds required for the
-institution were obtained by convincing the S.G.P.C to donate the same and to take
-over the management of the college with their assigned Trustees.
+<p align='justify'>In the meantime, the work of writing the constitution, accumulating the necessary funds and finding a suitable location and land for a permanent institution was started. They determined that approximately 75 acres of land between the south bank of an  adjacent canal and Gill Road in Gill Village would be the best location. The arduous task of convincing the people of Gill Village to donate their collective land was initiated. After unlimited negotiations, the villagers agreed to donate the land, provided they were made Trustees of the new college and that a certain number of students enrolled would be from the village. The necessary funds required for the institution were obtained by convincing the S.G.P.C to donate the same and to take over the management of the college with their assigned Trustees.</p>
 
 ## 3. NANKANA SAHIB EDUCATIONAL TRUST
 
-In the “Brief Report of the Work and Events Connected with Nankana Sahib Education
-Trust and Guru Nanak Engineering College till 31 - 3 - 1956 ”, Sardar Joginder Singh
-Grewal, Secretary of the Management Committee of the Trust, explained the objectives
-for which this Trust was established as follows:
+<p align='justify'>In the “Brief Report of the Work and Events Connected with Nankana Sahib Education Trust and Guru Nanak Engineering College till 31 - 3 - 1956 ”, Sardar Joginder Singh Grewal, Secretary of the Management Committee of the Trust, explained the objectives for which this Trust was established as follows:</p>
 
-''Whereas the founder of this Trust is deeply interested in the moral and social
-uplift of the poor and backward section of people who are at present weak mainly,
-perhaps because for ages they have lived and worked under great disabilities:
+<p align='justify'>''Whereas the founder of this Trust is deeply interested in the moral and social uplift of the poor and backward section of people who are at present weak mainly, perhaps because for ages they have lived and worked under great disabilities:</p>
 
-And whereas the founder feels that for all such uplift and for the proper
-development and maintenance of human character it is necessary first to raise the
-intellectual and economic status of these people and that in this age of machine one of
-the best ways to do so is to provide them facilities for industrial, agriculture and technical
-education and training, and thus befit them to earn their independent living and so stand
-erect in society but that these facilities are not at present available to them on an
-adequate scale;
+<p align='justify'>And whereas the founder feels that for all such uplift and for the proper development and maintenance of human character it is necessary first to raise the intellectual and economic status of these people and that in this age of machine one of the best ways to do so is to provide them facilities for industrial, agriculture and technical education and training, and thus befit them to earn their independent living and so stand erect in society but that these facilities are not at present available to them on an adequate scale;</p>
 
-And whereas the Equality of Opportunities now allowed to all people of India has
-no meaning without the Equality of Facilities which unfortunately does not exist.”
+<p align='justify'>And whereas the Equality of Opportunities now allowed to all people of India has no meaning without the Equality of Facilities which unfortunately does not exist.”</p>
 
-3.1 In order to achieve the objectives of the Nankana Sahib Educational Trust, it
-was decided by the Board of Trustees to set up appropriate institutions for the following
-purposes:
+**3.1** <p align='justify'>In order to achieve the objectives of the Nankana Sahib Educational Trust, it was decided by the Board of Trustees to set up appropriate institutions for the following purposes:</p>
 
-(3.1.1) To provide facilities for Civil, Mechanical, Electrical, Technical, Agricultural,
-Industrial and all other types of Engineering and Scientific education. Further, the
-facilities will provide training to the weaker or backward and poor section of people in
-general, but particularly to such people in rural areas. With this end in view, they planned
-to establish, maintain and manage an Engineering College in Ludhiana or in its suburbs, and other Civil, Mechanical, Technical, Electrical, Agricultural, Industrial and Scientific
-Schools and Institutions at suitable place in the States of Punjab, Patiala, and the East
-Punjab States union. With the same end in view, they planned to set up plants,
-workshops and other machinery for the production and manufacture of Mechanical,
-Electrical, Agricultural and Industrial tools, plants, machinery and goods.
+<p align='justify'>(3.1.1) To provide facilities for Civil, Mechanical, Electrical, Technical, Agricultural, Industrial and all other types of Engineering and Scientific education. Further, the facilities will provide training to the weaker or backward and poor section of people in general, but particularly to such people in rural areas. With this end in view, they planned to establish, maintain and manage an Engineering College in Ludhiana or in its suburbs, and other Civil, Mechanical, Technical, Electrical, Agricultural, Industrial and Scientific Schools and Institutions at suitable place in the States of Punjab, Patiala, and the East Punjab States union. With the same end in view, they planned to set up plants, workshops and other machinery for the production and manufacture of Mechanical, Electrical, Agricultural and Industrial tools, plants, machinery and goods.</p>
 
-(3.1.2) To provide facilities and make special arrangements for poor, backward and other
-deserving students to prepare for competitive examinations and tests required for Civil
-and Military services, and all other services of every description, and for admission to the
-Professional Colleges, Schools and Institutions in India.
+<p align='justify'>(3.1.2) To provide facilities and make special arrangements for poor, backward and other deserving students to prepare for competitive examinations and tests required for Civil and Military services, and all other services of every description, and for admission to the Professional Colleges, Schools and Institutions in India.</p>
 
-(3.1.3) To supply necessary information for the said purposes to people through books,
-magazines, papers and otherwise.
+<p align='justify'>(3.1.3) To supply necessary information for the said purposes to people through books, magazines, papers and otherwise.</p>
 
-## 3.2 Trust Management
+### 3.2 Trust Management
 
-During the preliminary stages of the establishment of the Trust, S. Sham Singh
-Mukandpuri and Jathedar Bachittar Singh of Pepsu constantly worked for the Trust.
-Mention may also be made here of S. Karnail Singh Sidhu, stenographer to the Principal,
-Government College, Ludhiana, for rendering honorary services for the large amount of
-correspondence during the initial period of the establishment of the Trust and the
-institutions.
+<p align='justify'>During the preliminary stages of the establishment of the Trust, S. Sham Singh Mukandpuri and Jathedar Bachittar Singh of Pepsu constantly worked for the Trust. Mention may also be made here of S. Karnail Singh Sidhu, stenographer to the Principal, Government College, Ludhiana, for rendering honorary services for the large amount of correspondence during the initial period of the establishment of the Trust and the institutions.</p>
 
-A reference has also to be made for the extremely valuable services rendered by the
-members of the Panchayat and Lambardars of Gill Village as also by Zaildar Harnam
-Singh, and Sardar Gajjan Singh for the gift of 75 acres of land made by the old and
-new residents of Gill Village.
+<p align='justify'>A reference has also to be made for the extremely valuable services rendered by the members of the Panchayat and Lambardars of Gill Village as also by Zaildar Harnam Singh, and Sardar Gajjan Singh for the gift of 75 acres of land made by the old and new residents of Gill Village.</p>
 
-But this report will not be complete without at least a brief reference to the services
-rendered or sympathy shown, and encouragement given, by certain well-meaning
-persons, at a time when the plan was in its early development phase. Jathedar Udham
-Singh Nagoke gave birth to the idea of Guru Nanak Engineering College and nucleus for
-the same was prepared by the formal creation of Nankana Sahib Education Trust with its
-fine constitution and organization. In order to start the project, the S.G.P.C, under the
-guidance of Master Tara Singh, donated a sum of rupees 2 Lakhs. The resolution to
-donate the funds was moved by S. Sarmukh Singh Chamak and seconded by S. Mangal
-Singh Gill of Gill Village. In addition, S. Ishar Singh Majhail, S. Mohinder Singh Sidhwan,
-and S. Basant Singh Moga came to its help when their help was most needed, and they
-are largely responsible for the payment of rupees 8 Lakhs by the S.G.P.C. There were
-differences of opinion at that time when much confusion prevailed in that body. S. Partap
-Singh Kairo, Chief Minister of Punjab, earnestly exercised his influence with the Nagoke
-Group for this payment of rupees 8 Lakhs and advised keeping the management of the
-Trust above party politics. Sarvshri Swaran Singh, Gurbachan Singh Bajwa and Ujjal
-Singh, all of whom were Government Ministers, also fully sympathized with the
-management in their task and did whatever little they could to help. The names of S. Inder
-Singh Kt. of Jamshedpur and his son S. Baldev Singh and R. B. Basaka Singh, Sir Sobha Singh, S. Bishan Singh Singaporean and Bawa Bachittar Singh also have to be
-mentioned for their sincere good wishes. Gyani Kartar Singh also gave his blessings
-to the constitution.
+<p align='justify'>But this report will not be complete without at least a brief reference to the services rendered or sympathy shown, and encouragement given, by certain well-meaning persons, at a time when the plan was in its early development phase. Jathedar Udham Singh Nagoke gave birth to the idea of Guru Nanak Engineering College and nucleus for the same was prepared by the formal creation of Nankana Sahib Education Trust with its fine constitution and organization. In order to start the project, the S.G.P.C, under the guidance of Master Tara Singh, donated a sum of rupees 2 Lakhs. The resolution to donate the funds was moved by S. Sarmukh Singh Chamak and seconded by S. Mangal Singh Gill of Gill Village. In addition, S. Ishar Singh Majhail, S. Mohinder Singh Sidhwan, and S. Basant Singh Moga came to its help when their help was most needed, and they are largely responsible for the payment of rupees 8 Lakhs by the S.G.P.C. There were differences of opinion at that time when much confusion prevailed in that body. S. Partap Singh Kairo, Chief Minister of Punjab, earnestly exercised his influence with the Nagoke Group for this payment of rupees 8 Lakhs and advised keeping the management of the Trust above party politics. Sarvshri Swaran Singh, Gurbachan Singh Bajwa and Ujjal Singh, all of whom were Government Ministers, also fully sympathized with the management in their task and did whatever little they could to help. The names of S. Inder Singh Kt. of Jamshedpur and his son S. Baldev Singh and R. B. Basaka Singh, Sir Sobha Singh, S. Bishan Singh Singaporean and Bawa Bachittar Singh also have to be mentioned for their sincere good wishes. Gyani Kartar Singh also gave his blessings to the constitution.</p>
 
-##3.3 First Trustees
+### 3.3 First Trustees
 
-The following persons were the first Trustees.
-
+<p align='justify'>The following persons were the first Trustees.</p>
 
 - President, S.G.P.C.Ex-officio. (S.Pritam Singh Khuranj).
 - His Highness Maharaj Yadvindra Singh, Malvindra Bahadur Rajparmukh of PEPSU as represented by S. Gain Singh Rarewala.
 - Master Tara Singh.
 
-The first meeting of the Board of Trustees was held in Patiala at the residence of S. Gain Singh Rarewala on June 5, 1953. In this meeting, the Trustees appointed the Managing Committee as provided in the Trust Deed.
+<p align='justify'>The first meeting of the Board of Trustees was held in Patiala at the residence of S. Gain Singh Rarewala on June 5, 1953. In this meeting, the Trustees appointed the Managing Committee as provided in the Trust Deed.</p>
 
-3.4 First Management Committee
+### 3.4 First Management Committee
 
-The following were the members of the first committee:
+<p align='justify'>The following were the members of the first committee:</p>
 
-- S.B.S.( Sardar Bahadur Sardar) Teja Singh, Chief Justice, Patiala High-Court
-President.
+- S.B.S.( Sardar Bahadur Sardar) Teja Singh, Chief Justice, Patiala High-Court President.
 - S. Gurnam Singh Judge, Patiala High Court, Vice-President.
 - S. Harnam Singh Judge, Punjab High Court.
 - S.B.S. Karnail Singh, General Manager, Indian Railways
@@ -162,22 +69,15 @@ President.
 - S. Prithvi Singh, Advocate, Ferozepur.
 - S. Joginder Singh; Advocate, Ludhiana-Secretary.
 
-The first meeting of the Management Committee was held on July 26,1953, at the residence of S.B.S. Teja Singh in Patiala and a resolution was passed to start a Degree College in Ludhiana.
+<p align='justify'>The first meeting of the Management Committee was held on July 26,1953, at the residence of S.B.S. Teja Singh in Patiala and a resolution was passed to start a Degree College in Ludhiana.</p>
 
 ## 4. COLLEGE LOCATION, TRUSTEES, BOARDS AND MANAGEMENT COMMITTEE
 
+<p align='justify'>Through the kindness of Sardar Sahib Sardar Udhe Singh, P.C.S. (retired Rais of Ladhran), President and S. Joginder Singh, Advocate, Secretary of the Gurdev Trust Ludhiana, a building of the Trust was obtained for the temporary lodging of the diploma classes in Civil, Electrical and Mechanical engineering. The college opened on October 21, 1953, with sixty students.</p>
 
-Through the kindness of Sardar Sahib Sardar Udhe Singh, P.C.S. (retired Rais of
-Ladhran), President and S. Joginder Singh, Advocate, Secretary of the Gurdev Trust
-Ludhiana, a building of the Trust was obtained for the temporary lodging of the diploma
-classes in Civil, Electrical and Mechanical engineering. The college opened on October
-21, 1953, with sixty students.
-
-The Board of Trustees and the Management Committee were reconstituted with the
-mutual consent of the two groups, consisting of the following persons.
+<p align='justify'>The Board of Trustees and the Management Committee were reconstituted with the mutual consent of the two groups, consisting of the following persons.</p>
 
 ### 4.1 Board of Trustees
-
 
 - President, S.G.P.C. Ex-officio. (Master Tara Singh).
 - Jathedar Udham Singh Nagoke, M.P.
@@ -187,7 +87,6 @@ mutual consent of the two groups, consisting of the following persons.
 - S. Chanan Singh Gill of Doraha, representing the donors of 75 acres of land of Gill Village.
 
 ### 4.2 The Management Committee
-
 
 - S. Gurnam Singh, Judge, High Court, Pepsu, President.
 - S. Kartar Singh, B. A ., LL.B., Advocate, Ludhiana, Vice President
@@ -206,39 +105,20 @@ mutual consent of the two groups, consisting of the following persons.
 - Reserved for a nominee of Government of India.
 - Reserved for a nominee of Government of Punjab.
 
-### 5. FINANCIAL ADVISOR & OVERALL PROJECT
+## 5. FINANCIAL ADVISOR & OVERALL PROJECT
 
-For the management of funds, S. B. Bhai Jodh Singh, M.L.C.was appointed as financial advisor. The S.G.P.C., under the Presidentship of Master Tara Singh, donated a sum
-of rupees 2 Lakhs on August 3, 1953. The same body donated another sum of rupees
-8 Lakhs in March 1954 under the Presidentship of S. Ishar Singh Majhail. The residents
-of Gill Village donated an extremely valuable piece of land measuring 75 acres on
-October 4, 1953.
+<p align='justify'>For the management of funds, S. B. Bhai Jodh Singh, M.L.C.was appointed as financial advisor. The S.G.P.C., under the Presidentship of Master Tara Singh, donated a sum of rupees 2 Lakhs on August 3, 1953. The same body donated another sum of rupees 8 Lakhs in March 1954 under the Presidentship of S. Ishar Singh Majhail. The residents of Gill Village donated an extremely valuable piece of land measuring 75 acres on October 4, 1953.</p>
 
-The institution had been identified for development in the First Five Year Plan and the
-government sanctioned rupees 5 Lakhs and 40,000 as a grant and rupees 2 Lakhs and
-40,000 as a loan for the development of a hostel, free of interest, repayable in 33 years
-in equal annual instalments. An additional rupees 22,500 were sanctioned as a grant to
-meet additional recurring expenses.
+<p align='justify'>The institution had been identified for development in the First Five Year Plan and the government sanctioned rupees 5 Lakhs and 40,000 as a grant and rupees 2 Lakhs and 40,000 as a loan for the development of a hostel, free of interest, repayable in 33 years in equal annual instalments. An additional rupees 22,500 were sanctioned as a grant to meet additional recurring expenses.</p>
 
-The project envisioned the establishment of the first engineering college in Civil,
-Electrical and Mechanical Engineering and a diploma course in the same subjects.
-The plan also envisioned the establishment of a technical institution as was approved
-by the government of India for the training of craftsman. It was further intended to
-start small scale technical institutions in as many important places in the Punjab and
-Pepsu regions as possible at the desire and financial assistance of the local people. The
-entire project in Ludhiana was estimated to cost rupees 1 crore when completed, as
-detailed below:
+<p align='justify'>The project envisioned the establishment of the first engineering college in Civil, Electrical and Mechanical Engineering and a diploma course in the same subjects. The plan also envisioned the establishment of a technical institution as was approved by the government of India for the training of craftsman. It was further intended to start small scale technical institutions in as many important places in the Punjab and Pepsu regions as possible at the desire and financial assistance of the local people. The entire project in Ludhiana was estimated to cost rupees 1 crore when completed, as detailed below:</p>
 
+### <p align='justify'>Estimate of Cost</p>
+### <p align='justify'>Guru Nanak Engineering College, Ludhiana</p>
+<p align='justify'>For Degree Diploma in Engineering and Technical Training Institute for Craftsman Training(In Rupees)</p>
 
-##Estimate of Cost
-##Guru Nanak Engineering College, Ludhiana
-For Degree Diploma in Engineering and Technical Training Institute for
-Craftsman Training
-(In Rupees)
-
-
-Main building 9 ,37,000
-Workshop 8 ,55,000
+| Main building | 9,37,000 |
+| Workshop | 8 ,55,000 |
 Hostels (double set for 500 students) 8 ,55,000
 Equipment 16 ,25,000
 Roads and drainage system and sewage scheme 2 ,50,000
