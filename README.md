@@ -116,7 +116,7 @@
 
 <h3 align='center'>Estimate of Cost</h3>
 <h3 align='center'>Guru Nanak Engineering College, Ludhiana</h3>
-<p align='justify'>For Degree Diploma in Engineering and Technical Training Institute for Craftsman Training(In Rupees)</p>
+<p align='center'>For Degree Diploma in Engineering and Technical Training Institute for Craftsman Training(In Rupees)</p>
 
 |:---                                                                                             |         ---:|
 | Main building                                                                                   | 9,37,000    |
