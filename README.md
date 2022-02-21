@@ -128,14 +128,11 @@
 | Residential quarters                                                                            | 7,01,000    |
 | Gymnasium, swimming pool and tuck shop                                                          | 2,01,000    |
 | Other subsidiary buildings, levelling plots, grounds for sports and T&P                         | 90,000      |
-
 |                                                                                                 | 57,39,000   |
 | Technical training institute for craftsman                                                      | 21,90,000   |
 | Gurdwara and library (religious)                                                                | 3,50,000    |
-
 |                                                                                                 | 82,79,000   |
 | Land and other incidental charges                                                               | 28,00,000   |
-
 | Grand Total                                                                                     | 1,10,79,000 |
 
 <p align='center'>Approximately rupees 1.0 crores</p>
