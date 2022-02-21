@@ -263,9 +263,9 @@ It must also be revealed with a mixed feeling that the first brick was placed on
 
 site of the College on Wednesday the 25th of May 1955, the day of Shaheedi Gurpurb of
 
-# Shri Guru Arjan Dev Ji Maharaj, in the early hours by the founder of the Trust himself,
+### Shri Guru Arjan Dev Ji Maharaj, in the early hours by the founder of the Trust himself,
 
-# accompanied by S. Ajmer Singh, Overseer of Rurgarh in Pepsu. This day was selected
+### accompanied by S. Ajmer Singh, Overseer of Rurgarh in Pepsu. This day was selected
 
 as no bigger ceremony was possible than Shaheedi Gurpurb and the day was too
 
