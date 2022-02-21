@@ -118,27 +118,27 @@
 <h3 align='justify'>Guru Nanak Engineering College, Ludhiana</h3>
 <p align='justify'>For Degree Diploma in Engineering and Technical Training Institute for Craftsman Training(In Rupees)</p>
 
-|                                             |           |
-| :---                                        |     ---:  |
-| Main building                               | 9,37,000  |
-| Workshop                                    | 8,55,000  |
-| Hostels (double set for 500 students)       | 8,55,000  |
-| Equipment                                   | 16,25,000 |
-| Roads and drainage system and sewage scheme | 2,50,000  |
-| Water supply and electrification            | 2,25,000  |
-| Residential quarters                        | 7,01,000  |
-| Gymnasium, swimming pool and tuck shop      | 2,01,000  |
-| Other subsidiary buildings, levelling plots, grounds for sports and T&P | 90,000 |
---------------------------------------------------------------------------------------
-|                                             | 57,39,000 |
-| Technical training institute for craftsman  | 21,90,000 |
-| Gurdwara and library (religious)            | 3,50,000  |
---------------------------------------------------------------------------------------
-|                                             | 82,79,000 |
-| Land and other incidental charges           | 28,00,000 |
----------------------------------------------------------------------------------------
-| Grand Total                                 | 1,10,79,000 |
----------------------------------------------------------------------------------------
+|                                                                         |             |
+|:---                                                                     |         ---:|
+| Main building                                                           | 9,37,000    |
+| Workshop                                                                | 8,55,000    |
+| Hostels (double set for 500 students)                                   | 8,55,000    |
+| Equipment                                                               | 16,25,000   |
+| Roads and drainage system and sewage scheme                             | 2,50,000    |
+| Water supply and electrification                                        | 2,25,000    |
+| Residential quarters                                                    | 7,01,000    |
+| Gymnasium, swimming pool and tuck shop                                  | 2,01,000    |
+| Other subsidiary buildings, levelling plots, grounds for sports and T&P | 90,000      |
+|                                                                         |             |
+|                                                                         | 57,39,000   |
+| Technical training institute for craftsman                              | 21,90,000   |
+| Gurdwara and library (religious)                                        | 3,50,000    |
+|                                                                         |             |
+|                                                                         | 82,79,000   |
+| Land and other incidental charges                                       | 28,00,000   |
+|                                                                         |             |
+| Grand Total                                                             | 1,10,79,000 |
+|                                                                         |             |
 
 <p align='center'>Approximately rupees 1.0 crores</p>
 
