@@ -114,8 +114,8 @@
 
 <p align='justify'>The project envisioned the establishment of the first engineering college in Civil, Electrical and Mechanical Engineering and a diploma course in the same subjects. The plan also envisioned the establishment of a technical institution as was approved by the government of India for the training of craftsman. It was further intended to start small scale technical institutions in as many important places in the Punjab and Pepsu regions as possible at the desire and financial assistance of the local people. The entire project in Ludhiana was estimated to cost rupees 1 crore when completed, as detailed below:</p>
 
-<h3 align='justify'>Estimate of Cost</h3>
-<h3 align='justify'>Guru Nanak Engineering College, Ludhiana</h3>
+<h3 align='center'>Estimate of Cost</h3>
+<h3 align='center'>Guru Nanak Engineering College, Ludhiana</h3>
 <p align='justify'>For Degree Diploma in Engineering and Technical Training Institute for Craftsman Training(In Rupees)</p>
 
 |:---                                                                                             |         ---:|
