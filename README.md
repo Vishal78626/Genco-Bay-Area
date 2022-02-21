@@ -127,7 +127,7 @@
 | Water supply and electrification                                                                | 2,25,000    |
 | Residential quarters                                                                            | 7,01,000    |
 | Gymnasium, swimming pool and tuck shop                                                          | 2,01,000    |
-| Other subsidiary buildings, levelling plots, grounds for sports and T&P                         | 90,000      |
+| Other subsidiary buildings, levelling plots, grounds for sports and T&P &nbsp;&nbsp;&nbsp;&nbsp;                        | 90,000      |
 |                                                                                                 | 57,39,000   |
 | Technical training institute for craftsman                                                      | 21,90,000   |
 | Gurdwara and library (religious)                                                                | 3,50,000    |
