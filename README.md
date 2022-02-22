@@ -62,9 +62,9 @@
 - S.B.S.( Sardar Bahadur Sardar) Teja Singh, Chief Justice, Patiala High-Court President.
 - S. Gurnam Singh Judge, Patiala High Court, Vice-President.
 - S. Harnam Singh Judge, Punjab High Court.
-- S.B.S. Karnail Singh, General Manager, Indian Railways
-- S.B.S. Sarup Singh Chief Engineer, (Punjab) Retd.
-- S.B.S. Natha Singh, State Engineer, Jaipur (Retd).
+- S.B.S. Karnail Singh, General Manager, Indian Railways.
+- S.B.S. Sarup Singh, Chief Engineer, (Punjab) Retd.
+- S.B.S. Natha Singh, State Engineer, (Jaipur) Retd.
 - S. Mohan Singh, Managing Director, Bank of Patiala.
 - S. Bahadur Singh, M.A., M.P.
 - S. Prithvi Singh, Advocate, Ferozepur.
@@ -82,7 +82,7 @@
 
 - President, S.G.P.C. Ex-officio. (Master Tara Singh).
 - Jathedar Udham Singh Nagoke, M.P.
-- His Highness Maharaj Yadvindra, Sinqh Rajparmukh of Pepsu.
+- His Highness Maharaj Yadvindra, Singh Rajparmukh of Pepsu.
 - S. Gain Singh Rarewala, Ex-Chief Minister, Pepsu.
 - S. Mohinder Singh Sidhwan.
 - S. Chanan Singh Gill of Doraha, representing the donors of 75 acres of land of Gill Village.
@@ -99,7 +99,7 @@
 - General Shivdev Singh, Minister P.W.D. Pepsu.
 - S. Bahadur Singh, M.A., M.P.
 - S. Dasundha Singh, Advocate, Ex. Minister, Punjab Government.
-- S. B a s a n t Singh Moga, Ex-Vice President, S.G.P.C.
+- S. Basant Singh Moga, Ex-Vice President, S.G.P.C.
 - S Bakhshish Singh Bhamadi, Contractor, Ludhiana.
 - Principal, Guru Nanak Engineering College, Ex-Officio.
 - S. Joginder Singh, Advocate Secretary.
@@ -110,7 +110,7 @@
 
 <p align='justify'>For the management of funds, S. B. Bhai Jodh Singh, M.L.C.was appointed as financial advisor. The S.G.P.C., under the Presidentship of Master Tara Singh, donated a sum of rupees 2 Lakhs on August 3, 1953. The same body donated another sum of rupees 8 Lakhs in March 1954 under the Presidentship of S. Ishar Singh Majhail. The residents of Gill Village donated an extremely valuable piece of land measuring 75 acres on October 4, 1953.</p>
 
-<p align='justify'>The institution had been identified for development in the First Five Year Plan and the government sanctioned rupees 5 Lakhs and 40,000 as a grant and rupees 2 Lakhs and 40,000 as a loan for the development of a hostel, free of interest, repayable in 33 years in equal annual instalments. An additional rupees 22,500 were sanctioned as a grant to meet additional recurring expenses.</p>
+<p align='justify'>The institution had been identified for development in the First Five Year Plan and the government sanctioned rupees 5 Lakhs and 40,000 as a grant and rupees 2 Lakhs and 40,000 as a loan for the development of a hostel, free of interest, repayable in 33 years in equal annual installments. An additional rupees 22,500 were sanctioned as a grant to meet additional recurring expenses.</p>
 
 <p align='justify'>The project envisioned the establishment of the first engineering college in Civil, Electrical and Mechanical Engineering and a diploma course in the same subjects. The plan also envisioned the establishment of a technical institution as was approved by the government of India for the training of craftsman. It was further intended to start small scale technical institutions in as many important places in the Punjab and Pepsu regions as possible at the desire and financial assistance of the local people. The entire project in Ludhiana was estimated to cost rupees 1 crore when completed, as detailed below:</p>
 
@@ -137,11 +137,11 @@
 
 <p align='center'>Approximately rupees 1.0 crores</p>
 
-<p align='justify'>It must also be revealed with a mixed feeling that the first brick was placed on the present site of the College on Wednesday the 25th of May 1955, the day of Shaheedi Gurpurb of Shri Guru Arjan Dev Ji Maharaj, in the early hours by the founder of the Trust himself, accompanied by S. Ajmer Singh, Overseer of Rurgarh in Pepsu. This day was selected as no bigger ceremony was possible than Shaheedi Gurpurb and the day was too auspicious to be missed</p>
+<p align='justify'>It must also be revealed with a mixed feeling that the first brick was placed on the present site of the College on Wednesday the 25th of May 1955, the day of Shaheedi Gurpurb of Shri Guru Arjan Dev Ji Maharaj, in the early hours by the founder of the Trust himself, accompanied by S. Ajmer Singh, Overseer of Rurgarh in Pepsu. This day was selected as no bigger ceremony was possible than Shaheedi Gurpurb and the day was too auspicious to be missed.</p>
 
-<p align='justify'>Much progress could not be made in the construction of the new buildings for various reasons. The construction work was earnestly taken up only a few months prior. S.Kishan Singh Gill, P.S.E. (Retd.), a very capable and energetic engineer who was well known for his efficiency and honesty in the Punjab, was appointed in July 1955. He was in charge of important building works at Patiala. It was through the kindness of General Shivdev Singh that the College was able to get him relieved from his other employment duties. After he was appointed, a good deal of work was completed in a few short months. A first-rate workshop with an area of 19 ,000 square feet (much bigger than that of Government Engineering College at Chandigarh) was fully established. The estimated cost of this workshop was rupees 2 Lakhs. A large tube well with a discharge of 1.5 cusec and 200 feet deep also was sunk at a cost of rupees 14,000. The building of the hostel, large enough to accommodate 250 students and estimated to cost about rupees 5 Lakhs, was almost half finished. The various buildings were designed by the well-known architect Shri J. K. Chaudhri, consulting architect to the government of Punjab. The institution was recognized by the government for the development of diploma courses in the First Five-year Plan. It was perceived that if all went well, the institution would be considered as suitable by the central government for inclusion in the list of fifteen Engineering College to be established and developed by the central government in the Second Five Year Plan. Although the plan was ambitious, they had a good start, and the community resources were inexhaustible, leading the Management Committee to believe the plan could succeed.</p>
+<p align='justify'>Much progress could not be made in the construction of the new buildings for various reasons. The construction work was earnestly taken up only a few months prior. S. Kishan Singh Gill, P.S.E. (Retd.), a very capable and energetic engineer who was well known for his efficiency and honesty in the Punjab, was appointed in July 1955. He was in charge of important building works at Patiala. It was through the kindness of General Shivdev Singh that the College was able to get him relieved from his other employment duties. After he was appointed, a good deal of work was completed in a few short months. A first-rate workshop with an area of 19 ,000 square feet (much bigger than that of Government Engineering College at Chandigarh) was fully established. The estimated cost of this workshop was rupees 2 Lakhs. A large tube well with a discharge of 1.5 cusec and 200 feet deep also was sunk at a cost of rupees 14,000. The building of the hostel, large enough to accommodate 250 students and estimated to cost about rupees 5 Lakhs, was almost half finished. The various buildings were designed by the well-known architect Shri J. K. Chaudhri, consulting architect to the government of Punjab. The institution was recognized by the government for the development of diploma courses in the First Five-year Plan. It was perceived that if all went well, the institution would be considered as suitable by the central government for inclusion in the list of fifteen Engineering College to be established and developed by the central government in the Second Five Year Plan. Although the plan was ambitious, they had a good start, and the community resources were inexhaustible, leading the Management Committee to believe the plan could succeed.</p>
 
-<p align='justify'>It has also to be added with great pleasure that in view of the importance of this institution and the desire of the community, Rashtarpati Dr Rajindra Prasad ji had very kindly consented to lay the foundation stone of the main building of Guru Nanak Engineering College at its new site Gill Park, Ludhiana, on Sunday April 8 , 1956. It was proposed to have opened the various buildings, the workshops two hostels, the staff quarters, tube-well, etc., by some benevolent donors, who had the desire and means to serve this institution as Trustees or otherwise. The development and the progress of this Trust and its various activities and stages - good, bad or otherwise- through which it has passed, should be a good benefit for the public.</p>
+<p align='justify'>It has also to be added with great pleasure that in view of the importance of this institution and the desire of the community, Rashtarpati Dr Rajindra Prasad ji had very kindly consented to lay the foundation stone of the main building of Guru Nanak Engineering College at its new site Gill Park, Ludhiana, on Sunday April 8, 1956. It was proposed to have opened the various buildings, the workshops two hostels, the staff quarters, tube-well, etc., by some benevolent donors, who had the desire and means to serve this institution as Trustees or otherwise. The development and the progress of this Trust and its various activities and stages - good, bad or otherwise- through which it has passed, should be a good benefit for the public.</p>
 
 <!--![img](https://user-images.githubusercontent.com/80409551/154983251-061a7ec1-1c02-4f0e-a400-7b63ca920339.png)-->
 <p align="center">
@@ -151,10 +151,10 @@
 
 ## 6. ADMISSION AND COURSES OF STUDIES
 
-<p align='justify'>The first Principal of the College was Doctor Harchand Singh Retired Principal, Punjab Engineering College, Roorkee. Dr Harchand Singh was there for a short period of time and Sarda Tara Singh, who retired as Principal of Panjab Engineering College Chandigarh was appointed Principal of Guru Nanak Engineering College Ludhiana in 1956 and remained until 1970.</p>
+<p align='justify'>The first Principal of the College was Doctor Harchand Singh Retired Principal, Punjab Engineering College, Roorkee. Dr Harchand Singh was there for a short period of time and Sardar Tara Singh, who retired as Principal of Punjab Engineering College, Chandigarh was appointed Principal of Guru Nanak Engineering College Ludhiana in 1956 and remained until 1970.</p>
 
 ### 6.1
-<p align='justify'>The Managing Committee was tasked to establish the rules for admission and examinations of students and trainees and the rules can be amended by the Managing Committee as necessary. Such rules must have the approval of the Trustees and be consistent with the provisions in the Deed for that purpose</p>
+<p align='justify'>The Managing Committee was tasked to establish the rules for admission and examinations of students and trainees and the rules can be amended by the Managing Committee as necessary. Such rules must have the approval of the Trustees and be consistent with the provisions in the Deed for that purpose.</p>
 
 ### 6.2
 <p align='justify'>The courses of studies at the engineering college should preferably be the same as prescribed for a similar college of the Punjab state or the state of Pepsu.</p>
