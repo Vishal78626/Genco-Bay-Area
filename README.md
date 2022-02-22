@@ -20,7 +20,7 @@
 
 ## 3. NANKANA SAHIB EDUCATIONAL TRUST
 
-<p align='justify'>In the “Brief Report of the Work and Events Connected with Nankana Sahib Education Trust and Guru Nanak Engineering College till 31 - 3 - 1956 ”, Sardar Joginder Singh Grewal, Secretary of the Management Committee of the Trust, explained the objectives for which this Trust was established as follows:</p>
+<p align='justify'>In the “Brief Report of the Work and Events Connected with Nankana Sahib Education Trust and Guru Nanak Engineering College till 31-3-1956 ”, Sardar Joginder Singh Grewal, Secretary of the Management Committee of the Trust, explained the objectives for which this Trust was established as follows:</p>
 
 <p align='justify'>''Whereas the founder of this Trust is deeply interested in the moral and social uplift of the poor and backward section of people who are at present weak mainly, perhaps because for ages they have lived and worked under great disabilities:</p>
 
